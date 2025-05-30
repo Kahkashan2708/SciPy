@@ -52,7 +52,10 @@ Here are a few things you will learn to do using SciPy:
 ```
 .
 ├── Scipy (1).ipynb        # Main tutorial notebook
-├── README.md              # This file
+├── README.md            # This file
+├── Int_1.jpg
+├── Int_2.jpg
+├── Int_3.jpg 
 ```
 
 ##  License
